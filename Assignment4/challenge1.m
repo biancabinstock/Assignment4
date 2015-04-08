@@ -19,7 +19,7 @@ int main2(int argc, const char * argv[]) {
         float firstConversion = getCelcius(27);
         NSLog(@"%f", firstConversion);
         
-        
+//        no function below, just an operation
         
         float celsius= (27 - 32) / 1.8;
         NSLog(@"%f", celsius);
