@@ -15,7 +15,7 @@ int getRandomInteger(int minimum, int maximum) {
 }
 
 
-int main1(int argc, const char * argv[]) {
+int main14(int argc, const char * argv[]) {
     @autoreleasepool {
         // challenge 1
         

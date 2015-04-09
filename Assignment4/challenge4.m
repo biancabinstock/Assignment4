@@ -13,10 +13,7 @@ NSString * returnMessage(NSString *message){
     return message;
 }
 
-
-
-
-int main(int argc, const char * argv[]) {
+int main34(int argc, const char * argv[]) {
     @autoreleasepool {
         NSString *firstTry = returnMessage(@"This is the message");
         NSLog(@"%@", firstTry);
