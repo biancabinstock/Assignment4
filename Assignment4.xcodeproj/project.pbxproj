@@ -13,6 +13,7 @@
 		96DBE7E61AD5B66400909F9C /* challenge2.m in Sources */ = {isa = PBXBuildFile; fileRef = 96DBE7E51AD5B66400909F9C /* challenge2.m */; };
 		96DBE7E81AD603C600909F9C /* example2.m in Sources */ = {isa = PBXBuildFile; fileRef = 96DBE7E71AD603C600909F9C /* example2.m */; };
 		96DBE7EA1AD60A7700909F9C /* example3.m in Sources */ = {isa = PBXBuildFile; fileRef = 96DBE7E91AD60A7700909F9C /* example3.m */; };
+		96DBE7EC1AD60D2A00909F9C /* example4.m in Sources */ = {isa = PBXBuildFile; fileRef = 96DBE7EB1AD60D2A00909F9C /* example4.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -35,6 +36,7 @@
 		96DBE7E51AD5B66400909F9C /* challenge2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = challenge2.m; sourceTree = "<group>"; };
 		96DBE7E71AD603C600909F9C /* example2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = example2.m; sourceTree = "<group>"; };
 		96DBE7E91AD60A7700909F9C /* example3.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = example3.m; sourceTree = "<group>"; };
+		96DBE7EB1AD60D2A00909F9C /* example4.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = example4.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,10 +71,11 @@
 			children = (
 				96DBE7D41AD5919100909F9C /* main.m */,
 				96DBE7E31AD5A63900909F9C /* example1.m */,
-				96DBE7E11AD5A5E000909F9C /* challenge1.m */,
-				96DBE7E51AD5B66400909F9C /* challenge2.m */,
 				96DBE7E71AD603C600909F9C /* example2.m */,
 				96DBE7E91AD60A7700909F9C /* example3.m */,
+				96DBE7EB1AD60D2A00909F9C /* example4.m */,
+				96DBE7E11AD5A5E000909F9C /* challenge1.m */,
+				96DBE7E51AD5B66400909F9C /* challenge2.m */,
 			);
 			path = Assignment4;
 			sourceTree = "<group>";
@@ -134,6 +137,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				96DBE7E61AD5B66400909F9C /* challenge2.m in Sources */,
+				96DBE7EC1AD60D2A00909F9C /* example4.m in Sources */,
 				96DBE7E41AD5A63900909F9C /* example1.m in Sources */,
 				96DBE7E81AD603C600909F9C /* example2.m in Sources */,
 				96DBE7EA1AD60A7700909F9C /* example3.m in Sources */,
