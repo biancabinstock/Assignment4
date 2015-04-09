@@ -15,8 +15,9 @@ int main(int argc, const char * argv[]) {
     @autoreleasepool {
         NSArray *makes = @[@"Honda", @"Ford", @"Nissan", @"Porsche"];
         NSLog(@"Selected a %@", getRandomMake(makes));
+        
     }
     return 0;
 }
         
-        
+
