@@ -23,7 +23,7 @@ int getPopulation(int n) {
     return population;
 }
 
-int main(int argc, const char * argv[]) {
+int main54(int argc, const char * argv[]) {
     @autoreleasepool {
         
         int newPopulation = getPopulation(100);
